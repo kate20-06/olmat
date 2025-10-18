@@ -21,7 +21,7 @@
 | 27.09.25   | Игры симметричные стратегии | [games_27_09_25.pdf](math_7/games_27_09_25.pdf)|
 | 4.10.25   | Игры симметричные стратегии | [games_27_09_25.pdf](math_7/games_27_09_25.pdf)|
 | 11.10.25   | Игры Выигрышные Позиции | [games_positions.pdf](math_7/games_positions.pdf) |
-| 08.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
+| 18.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
 
 
 # Олимпиадная математика 10 класс
