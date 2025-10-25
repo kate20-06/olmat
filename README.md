@@ -39,6 +39,6 @@
 | 27.09.25   | Неравенства        | [inequality_20_09_25.pdf](math_10/inequality_20_09_25.pdf) |
 | 04.10.25   | КБШ | [kbsh.pdf](math_10/kbsh.pdf) |
 | 11.10.25   | КБШ | [kbsh.pdf](math_10/kbsh.pdf) |
-| 18.10.25   | Дополниетельные построения | [drop_lines.pdf](math_10/drop_lines.pdf) |
-| 25.10.25   | Дополниетельные построения | [drop_lines.pdf](math_10/drop_lines.pdf) |
+| 18.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
+| 25.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
 | 01.11.25 | Нет занятий  |
