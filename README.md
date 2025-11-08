@@ -12,7 +12,7 @@
 | 25.10.25   | Разбор. Сложная добака, для тех, кто все сделал | [HARD_ADD.pdf](math_6/HARD_ADD.pdf) |
 | 25.10.25   | Разбор. Простые. для группы 6-2 | [prime_numbers.pdf](math_6/prime_numbers.pdf) |
 | 01.11.25 | Нет занятий  |
-
+| 08.11.25   | Оценка + пример | [ocenka_primer.pdf](math_6/ocenka_primer.pdf) |
 
 # Олимпиадная математика 7 класс
 
@@ -27,6 +27,8 @@
 | 18.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
 | 25.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
 | 01.11.25 | Нет занятий  |
+| 08.11.25   | Эйлеров путь | [eil_way.pdf](math_6/eil_way.pdf) |
+
 
 
 # Олимпиадная математика 10 класс
@@ -42,3 +44,4 @@
 | 18.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
 | 25.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
 | 01.11.25 | Нет занятий  |
+| 08.11.25   | Эйлеров путь | [eil_way.pdf](math_6/eil_way.pdf) |
