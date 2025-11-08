@@ -27,7 +27,7 @@
 | 18.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
 | 25.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
 | 01.11.25 | Нет занятий  |
-| 08.11.25   | Эйлеров путь | [eil_way.pdf](math_6/eil_way.pdf) |
+| 08.11.25   | Эйлеров путь | [eil_way.pdf](math_7/eil_way.pdf) |
 
 
 
@@ -44,4 +44,4 @@
 | 18.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
 | 25.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
 | 01.11.25 | Нет занятий  |
-| 08.11.25   | Эйлеров путь | [eil_way.pdf](math_6/eil_way.pdf) |
+| 08.11.25   | Эйлеров путь | [eil_way.pdf](math_10/eil_way.pdf) |
