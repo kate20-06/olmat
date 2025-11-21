@@ -50,4 +50,4 @@
 | 01.11.25 | Нет занятий  |
 | 08.11.25   | Эйлеров путь | [eil_way.pdf](math_10/eil_way.pdf) |
 | 15.11.25   | Параметры | [parametrs.pdf](math_10/parametrs.pdf) |
-| 15.11.25   | Параметры. Графический метод решения | [parametrs2.pdf](math_10/parametrs2.pdf) |
+| 22.11.25   | Параметры. Графический метод решения | [parametrs2.pdf](math_10/parametrs2.pdf) |
