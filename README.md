@@ -13,6 +13,8 @@
 | 25.10.25   | Разбор. Простые. для группы 6-2 | [prime_numbers.pdf](math_6/prime_numbers.pdf) |
 | 01.11.25 | Нет занятий  |
 | 08.11.25   | Оценка + пример | [ocenka_primer.pdf](math_6/ocenka_primer.pdf) |
+| 15.11.25   | Раскраски | [raskraski.pdf](math_6/raskraski.pdf) |
+| 22.11.25   | Дорешка + разбор |  |
 
 # Олимпиадная математика 7 класс
 
@@ -28,6 +30,8 @@
 | 25.10.25   | Графы              | [grafs.pdf](math_7/grafs.pdf) |
 | 01.11.25 | Нет занятий  |
 | 08.11.25   | Эйлеров путь | [eil_way.pdf](math_7/eil_way.pdf) |
+| 15.11.25   | Комбинаторика начало | [komba.pdf](math_7/komba.pdf) |
+| 22.11.25   | комбинаторика число сочетаний | [komba2.pdf](math_7/komba2.pdf) |
 
 
 
@@ -45,3 +49,5 @@
 | 25.10.25   | Дополниетельные построения | [dop_lines.pdf](math_10/drop_lines.pdf) |
 | 01.11.25 | Нет занятий  |
 | 08.11.25   | Эйлеров путь | [eil_way.pdf](math_10/eil_way.pdf) |
+| 15.11.25   | Параметры | [parametrs.pdf](math_10/parametrs.pdf) |
+| 15.11.25   | Параметры. Графический метод решения | [parametrs2.pdf](math_10/parametrs2.pdf) |
