@@ -15,6 +15,9 @@
 | 08.11.25   | Оценка + пример | [ocenka_primer.pdf](math_6/ocenka_primer.pdf) |
 | 15.11.25   | Раскраски | [raskraski.pdf](math_6/raskraski.pdf) |
 | 22.11.25   | Дорешка + разбор |  |
+| 06.12.25   | Инвариант | [invariant.pdf](math_6/invariant.pdf) | 
+| 13.12.25   | Инвариант | [raskraski.pdf](math_6/raskraski)|
+| 20.12.25   | Игра | |
 
 # Олимпиадная математика 7 класс
 
@@ -31,7 +34,11 @@
 | 01.11.25 | Нет занятий  |
 | 08.11.25   | Эйлеров путь | [eil_way.pdf](math_7/eil_way.pdf) |
 | 15.11.25   | Комбинаторика начало | [komba.pdf](math_7/komba.pdf) |
-| 22.11.25   | комбинаторика число сочетаний | [komba2.pdf](math_7/komba2.pdf) |
+| 22.11.25   | Комбинаторика число сочетаний | [komba2.pdf](math_7/komba2.pdf)|
+| 06.12.25   | Комбинаторика число сочетаний | [komba2.pdf](math_7/komba2.pdf)|
+| 13.12.25   | Бином Ньютона | [binom_newtona.pdf](math_7/binom_nutona.pdf)|
+| 20.12.25   | Игра | |
+
 
 
 
