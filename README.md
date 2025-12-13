@@ -16,7 +16,7 @@
 | 15.11.25   | Раскраски | [raskraski.pdf](math_6/raskraski.pdf) |
 | 22.11.25   | Дорешка + разбор |  |
 | 06.12.25   | Инвариант | [invariant.pdf](math_6/invariant.pdf) | 
-| 13.12.25   | Инвариант | [raskraski.pdf](math_6/raskraski)|
+| 13.12.25   | Инвариант | [invariant.pdf](math_6/invariant.pdf)|
 | 20.12.25   | Игра | |
 
 # Олимпиадная математика 7 класс
