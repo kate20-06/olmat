@@ -18,6 +18,10 @@
 | 06.12.25   | Инвариант | [invariant.pdf](math_6/invariant.pdf) | 
 | 13.12.25   | Инвариант | [invariant.pdf](math_6/invariant.pdf)|
 | 20.12.25   | Игра | |
+| 17.01.26   | Зачет |
+| 24.01.26 | Разбор, введение в индукцию |
+| 07.02.26 | Индукция | [induction.pdf](math_6/induc.pdf) |
+| 14.02.26 | Индукция | [induction.pdf](math_6/induc.pdf) |
 
 # Олимпиадная математика 7 класс
 
@@ -38,6 +42,9 @@
 | 06.12.25   | Комбинаторика число сочетаний | [komba2.pdf](math_7/komba2.pdf)|
 | 13.12.25   | Бином Ньютона | [binom_newtona.pdf](math_7/binom_nutona.pdf)|
 | 20.12.25   | Игра | |
+| 17.01.26   | Индукция | [induction.pdf](math_7/induc.pdf) |
+| 24.01.26   | Индукция | [induction.pdf](math_7/induc.pdf) |
+| 07.02.26   | Инукция делимость | [induction_div.pdf](math_7/induc_div.pdf) |
 
 
 
