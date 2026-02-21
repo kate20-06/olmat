@@ -22,7 +22,7 @@
 | 24.01.26 | Разбор, введение в индукцию |
 | 07.02.26 | Индукция | [induction.pdf](math_6/induc.pdf) |
 | 14.02.26   | Инукция делимость | [induction_div.pdf](math_6/induc_div.pdf) |
-| 21.02.26   | Подготовка к матпразднику | 
+| 21.02.26   | Подготовка к матпразднику | [math_celebrate.pdf](math_6/math_celebrate.pdf) |
 
 
 
