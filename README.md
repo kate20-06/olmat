@@ -23,6 +23,7 @@
 | 07.02.26 | Индукция | [induction.pdf](math_6/induc.pdf) |
 | 14.02.26   | Инукция делимость | [induction_div.pdf](math_6/induc_div.pdf) |
 | 21.02.26   | Подготовка к матпразднику | [math_celebrate.pdf](math_6/math_celebrate.pdf) |
+| 21.02.26   | Подготовка к матпразднику решения| [math_celebrate_answers.pdf](math_6/math_celebrate_answers.pdf) |
 
 
 
@@ -49,7 +50,7 @@
 | 24.01.26   | Индукция | [induction.pdf](math_7/induc.pdf) |
 | 07.02.26   | Инукция делимость | [induction_div.pdf](math_7/induc_div.pdf) |
 | 14.02.26   | Инукция делимость | [induction_div.pdf](math_7/induc_div.pdf) |
-| 21.02.26   | Подготовка к матпразднику | 
+| 21.02.26   | Подготовка к матпразднику | [math_celebrate.pdf](math_7/math_celebrate.pdf) |
 
 
 
