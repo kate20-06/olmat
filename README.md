@@ -25,7 +25,7 @@
 | 21.02.26   | Подготовка к матпразднику | [math_celebrate.pdf](math_6/math_celebrate.pdf) |
 | 21.02.26   | Подготовка к матпразднику решения| [math_celebrate_answers.pdf](math_6/math_celebrate_answers.pdf) |
 | 7.03.26    | Индукция текстовые задачи| 
-| 14.03.26   | Нет занятий. Вместо занятия ПИЧЬМЕННОЕ дз (сдать до 21.03) | [true_false.pdf](math_6/Induktsiya_verno_ili_net.pdf) |
+| 14.03.26   | Нет занятий. Вместо занятия ПИCЬМЕННОЕ дз (сдать до 21.03) | [true_false.pdf](math_6/Induktsiya_verno_ili_net.pdf) |
 
 
 
