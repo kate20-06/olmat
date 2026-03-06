@@ -27,8 +27,9 @@
 | 7.03.26    | Индукция текстовые задачи| 
 | 14.03.26   | Нет занятий. Вместо занятия ПИCЬМЕННОЕ дз (сдать до 21.03) | [true_false.pdf](math_6/Induktsiya_verno_ili_net.pdf) |
 
-
-
+# Программа зачета 6 класс
+- Зачет будет проходить в конце полугодия
+- [examen_program](https://docs.google.com/document/d/10LmBODwxUGigxc8asCknpJtq0Qf2opsPxh7oGFNvX3c/edit?usp=sharing)
 # Олимпиадная математика 7 класс
 
 ## Расписание занятий
