@@ -30,6 +30,7 @@
 # Программа зачета 6 класс
 - Зачет будет проходить в конце полугодия
 - [examen_program](https://docs.google.com/document/d/10LmBODwxUGigxc8asCknpJtq0Qf2opsPxh7oGFNvX3c/edit?usp=sharing)
+- [example_list_1](math_6/example.pdf)
 # Олимпиадная математика 7 класс
 
 ## Расписание занятий
