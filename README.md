@@ -26,6 +26,8 @@
 | 21.02.26   | Подготовка к матпразднику решения| [math_celebrate_answers.pdf](math_6/math_celebrate_answers.pdf) |
 | 7.03.26    | Индукция текстовые задачи| [induction_text.pdf](math_6/induc_text.pdf)|
 | 14.03.26   | Нет занятий. Вместо занятия ПИCЬМЕННОЕ дз (сдать до 21.03) | [true_false.pdf](math_6/Induktsiya_verno_ili_net.pdf) |
+| 21.03.26   | Завершение темы индукция. Разбор. |
+
 
 # Программа зачета 6 класс
 - Зачет будет проходить в конце полугодия
@@ -57,8 +59,7 @@
 | 21.02.26   | Подготовка к матпразднику | [math_celebrate.pdf](math_7/math_celebrate.pdf) |
 | 7.03.26    | Индукция текстовые задачи| [induction_text.pdf](math_7/induc_text.pdf)|
 | 14.03.26   | Нет занятий.|
-
-
+| 21.03.26   | Счет углов | [schet_uglov.pdf](math_7/Schet_uglov.pdf) |
 
 # Олимпиадная математика 10 класс
 
