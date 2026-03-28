@@ -60,7 +60,7 @@
 | 7.03.26    | Индукция текстовые задачи| [induction_text.pdf](math_7/induc_text.pdf)|
 | 14.03.26   | Нет занятий.|
 | 21.03.26   | Счет углов | [schet_uglov.pdf](math_7/Schet_uglov.pdf) |
-| 28.03.26   | Удвоение медианы | 
+| 28.03.26   | Удвоение медианы | [mediana_x2.pdf](math_7/Udvoenie_medianyi.pdf)|
 
 # Олимпиадная математика 10 класс
 
