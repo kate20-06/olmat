@@ -1,3 +1,10 @@
+# Программа зачета 6 класс
+- Зачет будет проходить в конце полугодия
+- [Программа экзамена](https://docs.google.com/document/d/10LmBODwxUGigxc8asCknpJtq0Qf2opsPxh7oGFNvX3c/edit?usp=sharing)
+- [Индукция формулы](math_6/example.pdf)
+- [Индукция делимость](math_6/induc_div_solves.pdf)
+- [Определения по графам](math_6/graph_theory.pdf)
+
 # Олимпиадная математика 6 класс
 
 ## Расписание занятий
@@ -35,13 +42,6 @@
 | 16.05.26   | Разбор разных интересных задач |
 | 23.05.26   | Игра |
 
-
-# Программа зачета 6 класс
-- Зачет будет проходить в конце полугодия
-- [Программа экзамена](https://docs.google.com/document/d/10LmBODwxUGigxc8asCknpJtq0Qf2opsPxh7oGFNvX3c/edit?usp=sharing)
-- [Индукция формулы](math_6/example.pdf)
-- [Индукция делимость](math_6/induc_div_solves.pdf)
-- [Определения по графам](math_6/graph_theory.pdf)
 
 # Олимпиадная математика 7 класс
 
