@@ -5,10 +5,10 @@
 | Дата       | Тема занятия       | Материалы                     |
 |------------|--------------------|-------------------------------|
 | 20.09.25   | Разнобой           | [different.pdf](math_6/different.pdf) |
-| 27.09.25   | Остатки            | [Rests.pdf](math_6/Rests.pdf) |
-| 04.10.25   | Остатки            | [Rests.pdf](math_6/Rests.pdf) |
+| 27.09.25   | Остатки            | [rests.pdf](math_6/rests.pdf) |
+| 04.10.25   | Остатки            | [rests.pdf](math_6/rests.pdf) |
 | 11.10.25   | ОТА                | [ota.pdf](math_6/ota.pdf)     |
-| 18.10.25   | ОТА добавка        | [18_10_25_ota_add.pdf](math_6/18_10_25_ota_add.pdf) |
+| 18.10.25   | ОТА добавка        | [ota_add.pdf](math_6/ota_add.pdf) |
 | 25.10.25   | Разбор. Сложная добака, для тех, кто все сделал | [HARD_ADD.pdf](math_6/HARD_ADD.pdf) |
 | 25.10.25   | Разбор. Простые. для группы 6-2 | [prime_numbers.pdf](math_6/prime_numbers.pdf) |
 | 01.11.25 | Нет занятий  |
@@ -25,7 +25,7 @@
 | 21.02.26   | Подготовка к матпразднику | [math_celebrate.pdf](math_6/math_celebrate.pdf) |
 | 21.02.26   | Подготовка к матпразднику решения| [math_celebrate_answers.pdf](math_6/math_celebrate_answers.pdf) |
 | 7.03.26    | Индукция текстовые задачи| [induction_text.pdf](math_6/induc_text.pdf)|
-| 14.03.26   | Нет занятий. Вместо занятия ПИCЬМЕННОЕ дз (сдать до 21.03) | [true_false.pdf](math_6/Induktsiya_verno_ili_net.pdf) |
+| 14.03.26   | Нет занятий. Вместо занятия ПИCЬМЕННОЕ дз (сдать до 21.03) | [ind_true_false.pdf](math_6/ind_true_false.pdf) |
 | 21.03.26   | Завершение темы индукция. Разбор. |
 | 28.03.26   | Графы. Лемма о рукопожатии | [graph.pdf](math_6/graph.pdf)|
 | 04.04.26   | Нет занятий |
